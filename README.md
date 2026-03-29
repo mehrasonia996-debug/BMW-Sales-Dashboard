@@ -114,7 +114,7 @@ Use filters and slicers to explore data interactively
 This project demonstrates how data analytics can be used to analyze automotive sales performance. It helps in identifying trends, understanding customer preferences, and supporting business strategies using interactive dashboards.
 
 📷 Screenshots
-
+https://github.com/mehrasonia996-debug/BMW-Sales-Dashboard/blob/main/Screenshot%202026-03-29%20173910.png
 
 (Add your dashboard screenshots here)
 
