@@ -116,5 +116,4 @@ This project demonstrates how data analytics can be used to analyze automotive s
 📷 Screenshots
 https://github.com/mehrasonia996-debug/BMW-Sales-Dashboard/blob/main/Screenshot%202026-03-29%20173910.png
 
-(Add your dashboard screenshots here)
 
